@@ -1,0 +1,10 @@
+
+G	java:S106%"+Replace this use of System.out by a logger.(ß⁄ÓÜ8–«°≈„1
+L	java:S106&"+Replace this use of System.out by a logger.(á∫óà˘ˇˇˇˇ8–«°≈„1
+G	java:S106'"+Replace this use of System.out by a logger.(öÅ√≠8–«°≈„1
+L	java:S106("+Replace this use of System.out by a logger.(⁄ëŒ˘¸ˇˇˇˇ8—«°≈„1
+G	java:S106)"+Replace this use of System.out by a logger.(‚«–•8—«°≈„1
+[
+java:S1155*">Use isEmpty() to check whether the collection is empty or not.(É≠◊‹8Ï£¢≈„1
+G	java:S106+"+Replace this use of System.out by a logger.(â È‚8—«°≈„1
+G	java:S106-"+Replace this use of System.out by a logger.(†≠îù8ê∆¢≈„1
